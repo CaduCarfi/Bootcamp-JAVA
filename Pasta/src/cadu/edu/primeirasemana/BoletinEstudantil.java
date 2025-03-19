@@ -1,6 +1,6 @@
 package cadu.edu.primeirasemana;
 
-public class BoletimEstudantil {
+public class BoletinEstudantil {
 
     public static void main(String[] args) {
 
