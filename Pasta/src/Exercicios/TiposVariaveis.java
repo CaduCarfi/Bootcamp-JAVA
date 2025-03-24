@@ -1,4 +1,4 @@
-package Aprendendo.a.Sintaxe.Java;
+package Exercicios;
 
 public class TiposVariaveis {
 
