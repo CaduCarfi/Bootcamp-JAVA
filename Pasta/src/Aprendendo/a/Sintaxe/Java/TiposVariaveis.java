@@ -1,4 +1,4 @@
-package cadu.edu.primeirasemana;
+package Aprendendo.a.Sintaxe.Java;
 
 public class TiposVariaveis {
 

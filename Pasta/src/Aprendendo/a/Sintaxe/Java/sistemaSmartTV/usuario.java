@@ -1,4 +1,4 @@
-package cadu.edu.primeirasemana.sistemaSmartTV;
+package Aprendendo.a.Sintaxe.Java.sistemaSmartTV;
 
 public class usuario {
 
