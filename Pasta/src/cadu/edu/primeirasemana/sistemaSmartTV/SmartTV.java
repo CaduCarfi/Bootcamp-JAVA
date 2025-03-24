@@ -1,4 +1,4 @@
-package sistemaSmartTV;
+package cadu.edu.primeirasemana.sistemaSmartTV;
 
 public class SmartTV {
     boolean ligado = false;
