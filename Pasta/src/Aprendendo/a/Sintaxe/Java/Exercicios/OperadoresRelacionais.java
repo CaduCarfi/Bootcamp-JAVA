@@ -1,4 +1,4 @@
-package Exercicios;
+package Aprendendo.a.Sintaxe.Java.Exercicios;
 
 public class OperadoresRelacionais {
     public static void main(String[] args) {

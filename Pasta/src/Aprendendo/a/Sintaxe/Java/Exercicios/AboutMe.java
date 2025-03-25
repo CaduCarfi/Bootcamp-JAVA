@@ -1,4 +1,4 @@
-package Exercicios;
+package Aprendendo.a.Sintaxe.Java.Exercicios;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Exercicios.sistemaSmartTV;
+package Aprendendo.a.Sintaxe.Java.Exercicios.sistemaSmartTV;
 
 public class usuario {
 

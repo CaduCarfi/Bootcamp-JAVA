@@ -1,6 +1,5 @@
-package Desafios;
+package Aprendendo.a.Sintaxe.Java.Desafios;
 
-import java.io.IOException;
 import java.util.Scanner;
 import java.util.Locale;
 
