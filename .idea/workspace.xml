@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dc2b458-88f0-4d5e-875c-150e3df5e95f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pasta/src/Estrutura/Repetição/ExemploDoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,11 +71,24 @@
       <workItem from="1742392107560" duration="312000" />
       <workItem from="1743017339526" duration="232000" />
       <workItem from="1743017979724" duration="13000" />
+      <workItem from="1743018058132" duration="56000" />
+      <workItem from="1743018146981" duration="156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
