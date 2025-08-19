@@ -1,4 +1,4 @@
-package atendimento.cozinha;
+package lanchonete.atendimento.cozinha;
 
 public class Cozinheiro {
     public void adicionarLancheNoBalcao() {
@@ -11,35 +11,35 @@ public class Cozinheiro {
         adicionarLancheNoBalcao();
         adicionarSucoNoBalcao();
     }
-    public void prepararLanche() {
+    private void prepararLanche() {
         System.out.println("Preparando lanche");
     }
-    public void prepararVitamina() {
+    private void prepararVitamina() {
         System.out.println("Preparando vitamina");
     }
-    public void prepararCombo() {
+    private void prepararCombo() {
         prepararLanche();
         prepararVitamina();
     }
-    public void selecionarIngredientesLanche() {
+    private void selecionarIngredientesLanche() {
         System.out.println("Selecionado o pão, salada, ovo e carne");
     }
-    public void selecionarIngredientesVitamina() {
+    private void selecionarIngredientesVitamina() {
         System.out.println("Selecionado fruta, leite e suco");
     }
-    public void lavarIngredientes() {
+    private void lavarIngredientes() {
         System.out.println("Lavando ingredientes");
     }
-    public void baterVitaminaLiquidificador() {
+    private void baterVitaminaLiquidificador() {
         System.out.println("Batendo vitamina no liquidificador");
     }
-    public void fritarIngredientesLanche() {
+    private void fritarIngredientesLanche() {
         System.out.println("Fritando ingredientes do lanche");
     }
-    public void pedirParaTrocarGas(Almoxarife meuAmigo) {
+    private void pedirParaTrocarGas(Almoxarife meuAmigo) {
         meuAmigo.trocarGas();
     }
-    public void pedirIngredientes(Almoxarife meuAmigo) {
-        meuAmigo.entregarIngredientes();
+    private void pedirIngredientes(Almoxarife almoxarife) {
+        almoxarife.entregarIngredientes();
     }
 }
